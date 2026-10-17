@@ -28,6 +28,7 @@ Global export markets demand rigorous compliance (APEDA/FSSAI) to combat food fr
 [Sensors (SHT40/ME3)] ──► (I2C / ADC)  ┘           ▲
                                                     │
                                         [TI BQ25570 MPPT + LTO Battery] (Solar/TEG Dual Harvest)
+```
 
 
 
