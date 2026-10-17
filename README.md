@@ -30,7 +30,7 @@ Global export markets demand rigorous compliance (APEDA/FSSAI) to combat food fr
                                         [TI BQ25570 MPPT + LTO Battery] (Solar/TEG Dual Harvest)
 
 
-                                      ---
+
 
 ## 🛠️ Hardware & Firmware Specifications
 
